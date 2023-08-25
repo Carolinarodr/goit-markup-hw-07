@@ -647,6 +647,7 @@ img {
   flex-direction: column;
   justify-content: center;
   height: 600px;
+  width: 1600px;
   margin: auto;
   align-items: center;
   background-position: center;
